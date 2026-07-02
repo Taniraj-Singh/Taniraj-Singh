@@ -1,34 +1,27 @@
-
-<!-- ========================================================= -->
-<!--                  PREMIUM GITHUB PROFILE                   -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Taniraj Singh
-
-### AI Engineer • GenAI Engineer • LLM Evaluation Specialist • AI Security Researcher • Backend Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Taniraj%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20GenAI%20Engineer%20•%20LLM%20Evaluation%20Specialist&descAlignY=58"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;Generative+AI+%7C+LLM+Evaluation;Repository-Scale+Benchmark+Engineering;FastAPI+%7C+Docker+%7C+Python;AI+Agents+%7C+RAG+%7C+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+Production-Ready+AI+Systems;LLM+Evaluation+%7C+Benchmark+Engineering;Backend+Engineering+with+Python+%26+FastAPI;AI+Agents+%7C+RAG+%7C+Automation"/>
 </p>
 
 <p>
 
 <a href="https://github.com/Taniraj-Singh">
-<img src="https://img.shields.io/github/followers/Taniraj-Singh?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/Taniraj-Singh?style=flat-square"/>
 </a>
 
 <a href="https://github.com/Taniraj-Singh">
-<img src="https://komarev.com/ghpvc/?username=Taniraj-Singh&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Taniraj-Singh&style=flat-square"/>
 </a>
 
 <a href="https://linkedin.com/in/taniraj-singh-342b31224">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/>
 </a>
 
 <a href="mailto:tanirajsingh574@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail"/>
 </a>
 
 </p>
@@ -37,289 +30,183 @@
 
 ---
 
-# 🚀 About Me
+## About
 
-I'm an **AI Engineer** passionate about building **production-ready AI systems**, **LLM evaluation pipelines**, **repository-scale benchmark environments**, **AI agents**, and **backend platforms**.
+I'm an AI engineer who enjoys building software that is reliable, maintainable, and genuinely useful.
 
-My work focuses on solving engineering problems with **Generative AI**, scalable backend architectures, automation, reproducible benchmarking, and secure software engineering.
+Over the last few years my work has centered around large language models, repository-scale evaluation, backend engineering, automation, and production AI systems. I like solving engineering problems that require thoughtful system design rather than quick prototypes.
 
----
+Most of my recent work involves:
 
-# 🎯 Current Focus
-
-- 🤖 Generative AI
-- 🧠 LLM Evaluation
-- 📊 Benchmark Engineering
-- 🔍 Repository Analysis
-- ⚡ AI Agents
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🐳 Docker Infrastructure
-- 🚀 Backend Engineering
-- 🔐 AI Security Evaluation
-- ⚙️ Workflow Automation
+- LLM evaluation and benchmark engineering
+- AI agents and multi-agent workflows
+- Retrieval-Augmented Generation (RAG)
+- FastAPI backend development
+- Dockerized AI applications
+- Repository analysis
+- AI automation
+- Secure software engineering
 
 ---
 
-# 💼 Professional Expertise
+## What I'm Working On
 
-| Domain | Expertise |
-|---------|-----------|
-| 🤖 LLM Evaluation | ⭐⭐⭐⭐⭐ |
-| 🧠 Generative AI | ⭐⭐⭐⭐⭐ |
-| 🐍 Python | ⭐⭐⭐⭐⭐ |
-| ⚡ FastAPI | ⭐⭐⭐⭐⭐ |
-| 🐳 Docker | ⭐⭐⭐⭐⭐ |
-| 🔍 Repository Analysis | ⭐⭐⭐⭐⭐ |
-| 🛡 AI Security | ⭐⭐⭐⭐☆ |
-| 🤖 AI Agents | ⭐⭐⭐⭐☆ |
-| 📚 RAG | ⭐⭐⭐⭐☆ |
-| ☁ Backend Systems | ⭐⭐⭐⭐⭐ |
+- Repository-scale benchmark environments
+
+- AI Agent systems
+
+- Production RAG architectures
+
+- FastAPI microservices
+
+- LLM evaluation pipelines
+
+- AI workflow automation
+
+- Docker infrastructure
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
-## Languages
+#### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,sql"/>
-
 </p>
 
----
-
-## AI & Machine Learning
+#### AI
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
-**Generative AI**
+OpenAI • Claude • Gemini • LangChain • LangGraph • LlamaIndex • Hugging Face • Ollama • AI Agents • RAG • Prompt Engineering
 
-- OpenAI
-- Claude
-- Gemini
-- LangChain
-- LlamaIndex
-- AI Agents
-- Prompt Engineering
-- RLHF
-- SFT
-- SWE Bench
-- Benchmark Engineering
-- Repository Analysis
-
----
-
-## Backend
+#### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,postgres,mysql,sqlite,redis"/>
-
+<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,postgres,mysql,redis,docker"/>
 </p>
 
----
-
-## DevOps
+#### DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux"/>
-
+<img src="https://skillicons.dev/icons?i=linux,git,githubactions,kubernetes"/>
 </p>
 
 ---
 
-## Tools
+## Featured Projects
 
-<p>
+### AI Benchmark Framework
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman"/>
-
-</p>
+Repository-scale benchmark tasks for evaluating frontier AI models.
 
 ---
 
-# 🚀 Featured Projects
+### Multi-Agent AI Platform
 
-## 🤖 AI Benchmark Development Framework
-
-Repository-scale benchmark framework for evaluating frontier AI models.
-
-**Highlights**
-
-- Repository Analysis
-- SWE Bench
-- Docker
-- Automated Validation
-- Deterministic Execution
-- Issue Reproduction
+A modular agent framework for reasoning, planning and automation.
 
 ---
 
-## 🧠 AI Automation Platform
+### Enterprise RAG
 
-Production AI backend powered by FastAPI and LLMs.
-
-**Features**
-
-- REST APIs
-- AI Workflows
-- Document Processing
-- Docker Deployment
-- Authentication
-- Automation
+Scalable Retrieval-Augmented Generation system with vector search and FastAPI.
 
 ---
 
-## 📚 Enterprise RAG Platform
+### AI Automation Suite
 
-Production Retrieval-Augmented Generation platform.
-
-- Vector Search
-- Semantic Retrieval
-- LLM Integration
-- FastAPI
-- PostgreSQL
-- Redis
+Backend services for document processing, workflow automation and LLM integration.
 
 ---
 
-## 🤖 Multi-Agent AI System
-
-Autonomous AI Agents capable of collaborative task execution.
-
----
-
-## 🔐 AI Security Toolkit
-
-Security evaluation framework for AI-generated software.
-
----
-
-# 🏗 Architecture
-
-```text
-                Users
-                  │
-                  ▼
-        FastAPI Backend APIs
-                  │
-     ┌────────────┼────────────┐
-     ▼            ▼            ▼
- OpenAI      PostgreSQL      Redis
-     │
-     ▼
- Vector Database
-     │
-     ▼
- AI Agent Layer
-     │
-     ▼
- Automation Engine
-```
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Taniraj-Singh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taniraj-Singh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Taniraj-Singh&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taniraj-Singh&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Taniraj-Singh&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📌 Core Competencies
-
-```text
-✔ AI Engineering
-✔ LLM Evaluation
-✔ Prompt Engineering
-✔ AI Agents
-✔ Backend Development
-✔ FastAPI
-✔ REST APIs
-✔ Docker
-✔ Linux
-✔ Git
-✔ PostgreSQL
-✔ Redis
-✔ Automation
-✔ Benchmark Engineering
-✔ Repository Analysis
-✔ Security Evaluation
-```
-
----
-
-# 🌍 Connect With Me
+## GitHub Analytics
 
 <p align="center">
 
-<a href="https://linkedin.com/in/taniraj-singh-342b31224">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Taniraj-Singh&show_icons=true&hide_border=true&theme=github_dark"/>
 
-<a href="mailto:tanirajsingh574@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/Taniraj-Singh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taniraj-Singh&layout=compact&hide_border=true&theme=github_dark"/>
 
 </p>
 
 ---
 
-# 💬 Favorite Quote
+## Contribution Streak
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Taniraj-Singh&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taniraj-Singh&theme=github-dark"/>
+
+</p>
+
+---
+
+## Current Interests
+
+```text
+Artificial Intelligence
+
+Large Language Models
+
+Generative AI
+
+AI Agents
+
+LLM Evaluation
+
+Benchmark Engineering
+
+Backend Systems
+
+FastAPI
+
+Python
+
+Docker
+
+Linux
+
+Software Architecture
+
+Automation
+
+Cloud Infrastructure
+
+Open Source
+```
+
+---
+
+## Let's Connect
+
+<p>
+
+<a href="mailto:tanirajsingh574@gmail.com">Email</a> •
+<a href="https://linkedin.com/in/taniraj-singh-342b31224">LinkedIn</a> •
+<a href="https://github.com/Taniraj-Singh">GitHub</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Building intelligent software that is reliable, scalable, and production-ready."*
+*"Good software is built twice — first in design, then in code."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
